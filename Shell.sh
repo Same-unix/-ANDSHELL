@@ -1,4 +1,4 @@
-!#/data/data/com.tremux/files/usr/bin/bash
+#!/data/data/com.tremux/files/usr/bin/bash
 
 # greet
 GREET="hello $USERNAME"
